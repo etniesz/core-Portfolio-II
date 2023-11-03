@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "ySyiwgLevo5B/50bRpyQqkdFQCHJezvj1rGaxMseShk=",
+  "Source": "PortfolioII",
+  "BasePath": "_content/PortfolioII",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PortfolioII\\wwwroot",
+      "Source": "PortfolioII",
+      "ContentRoot": "C:\\Users\\Jaime\\OneDrive\\Documentos\\Curso\\Curso\\ASP.NET\\PortfolioII\\wwwroot\\",
+      "BasePath": "_content/PortfolioII",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Jaime\\OneDrive\\Documentos\\Curso\\Curso\\ASP.NET\\PortfolioII\\wwwroot\\css\\styles.css",
+      "SourceId": "PortfolioII",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jaime\\OneDrive\\Documentos\\Curso\\Curso\\ASP.NET\\PortfolioII\\wwwroot\\",
+      "BasePath": "_content/PortfolioII",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ]
+}
